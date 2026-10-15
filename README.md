@@ -12,9 +12,9 @@ Now featuring **Scout Bhai** — an authentic, high-energy **Haryanvi Touch**, c
 
 <!-- Add your screenshots here. You can drop images into the docs/images/ folder! -->
 <p align="center">
-  <img src="docs/images/imessage-demo.png" alt="Scout Bhai iMessage Output Demo" width="380" />
+  <img src="https://i.ibb.co/JYWshXb/IMG-2797.png" alt="Scout Bhai iMessage Output Demo" width="380" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="docs/images/dashboard-preview.png" alt="Scout Web Dashboard" width="480" />
+  <img src="https://i.ibb.co/q3KrnFF6/IMG-2798.avif" alt="Scout Web Dashboard" width="480" />
 </p>
 
 <details open>
