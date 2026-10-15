@@ -1,0 +1,45 @@
+{
+  "users": [
+    {
+      "_id": "default-user",
+      "photonUserId": "dashboard-demo",
+      "displayName": "Scout Student",
+      "preferences": {
+        "skills": ["TypeScript", "Next.js", "Python"],
+        "location": "Remote",
+        "workMode": "any",
+        "opportunityTypes": ["internship", "open-source", "hackathon"],
+        "paidOnly": false,
+        "experienceLevel": "any",
+        "interests": ["AI", "Web Development", "Open Source"],
+        "reminderLeadDays": 2,
+        "timezone": "UTC",
+        "persona": "haryanvi"
+      },
+      "createdAt": "2026-10-15T20:50:45.793Z",
+      "updatedAt": "2026-10-15T20:50:45.793Z"
+    }
+  ],
+  "opportunities": [
+    {
+      "_id": "opp-1",
+      "userId": "dashboard-demo",
+      "name": "Full Stack Engineering Intern (Summer 2026)",
+      "company": "Vercel",
+      "type": "internship",
+      "sourceUrl": "https://vercel.com/careers",
+      "applicationUrl": "https://vercel.com/careers",
+      "deadline": "2026-11-15",
+      "deadlineVerified": true,
+      "location": "Remote",
+      "workMode": "remote",
+      "paidStatus": "paid",
+      "compensation": "$55/hr",
+      "description": "Work on Next.js core, Turbopack, and AI SDK developer tooling.",
+      "eligibility": "Enrolled in undergraduate or graduate CS program",
+      "savedAt": "2026-10-15T20:50:45.794Z"
+    }
+  ],
+  "reminders": [],
+  "conversations": []
+}
